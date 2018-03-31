@@ -1,0 +1,7 @@
+class A
+
+def hello
+
+puts "this is my fist code in git"
+
+end
